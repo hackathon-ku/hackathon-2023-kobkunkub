@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Headmenu{
+    background: #51A06C;
+    padding: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.profile{
+    position: absolute;
+    right: 0;
+    margin-top: -50px;
+}
+.new{
+    margin-top: 21px;
+    margin-left: 21px;
+    display: flex;
+    justify-content: space-between;
+}
+.picture{
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+}
+.group .circle{
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: black;
+    color: black;
+    display: inline-block;
+    margin-right: 5px;
+}
+.group{
+    display: flex;
+    justify-content: center;
+    margin-top: 11px;
+}
+.event h3{
+    margin-left: 21px;
+    margin-top: 21px;
+}
+.picture2{
+    display: flex;
+    justify-content: center;
+    margin-left: 23px;
+    border-radius: 10px;
+    margin-top: 23px;
+}
+.picture2 img{
+    border-radius: 30px;
+    margin-right: 5px;
+}
+.map_grade_club img{
+    background: #51A06C;
+    border-radius: 50%;
+    padding: 20px;
+    margin-right: 10px;
+}
+.map_grade_club{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+.bottom_bar{
+    background: #51A06C;
+    width: 100%;
+    padding: 20px;
+}
+.botton{
+    margin-left: 5%;
+}
+.botton img{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: -50px;
+}
