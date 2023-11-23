@@ -5,8 +5,11 @@
 </p>
 
 รายละเอียดโครงการ : https://docs.google.com/document/d/1bn_71K9RF_K8MaBbZNgUAtS7PgFJkon91lOat7AtFxw/edit
-https://www.figma.com/community/file/1309500786072062730/kobkunkubs-team-copy
+
 คำสั่ง git พื้นฐานในการอัปโหลดโค้ดขึ้นมาที่ repository นี้
+ลิ้ง figma
+https://www.figma.com/community/file/1309500786072062730/kobkunkubs-team-copy
+
 
 ```bash
 git add .
